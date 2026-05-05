@@ -1,0 +1,2 @@
+# AI-training.
+still learning
